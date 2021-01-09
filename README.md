@@ -23,4 +23,4 @@ This is a website that allows customers to order pizzas with one or more topping
 If your would like to contribute to this project, fork the project and raise a PR
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
-Copyright (c) 2021 Bramuel Amariati
+Copyright (c) 2020 Bramuel Amariati
