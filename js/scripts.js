@@ -79,16 +79,14 @@ function calctotalPrice(e) {
 ​
 }
 ​
-​
-​
-// Delivery form inputs and alerts
+
 ​
 ​
 $(document).ready(function () {
     $("#delivery").submit(function () {
 ​
-            // var name = $("input#name").val();
-            var name =(prompt("Enter your name"));
+
+var name =(prompt("Enter your name"));
             var contact =(prompt("Enter your contact"));
             var location =(prompt("Enter location"));
 ​
