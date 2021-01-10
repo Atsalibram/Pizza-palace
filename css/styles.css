@@ -1,13 +1,13 @@
 .jumbotron{
-    background-image: url(../images/h1.jpeg);
+    background-image: url(../images/Pizza-II.webp);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10%;
-    color:orange;
+    color:white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
     text-align: center;
-    font-size: large;
+    font-size: 160%;
     margin: 50px;
 }
 .header{
