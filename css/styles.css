@@ -14,7 +14,6 @@
     padding-top: 5%;
 }
 .body{
-    background-image: url(../images/pizza.jpeg);
     background-repeat: no-repeat;
     float: left;
     overflow-x: hidden;
@@ -74,4 +73,8 @@ h1{
 
 .main {
   margin-top: 30px; 
+}
+
+.rounded{
+  border-radius: 50%;
 }
